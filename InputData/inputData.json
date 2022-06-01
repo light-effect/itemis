@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Clean code: Robert Martin",
+    "type": "Book",
+    "price": 12.49,
+    "quantity": 1,
+    "tax": 0,
+    "imported": false
+  },
+  {
+    "name": "Metallica: The Best",
+    "type": "CD",
+    "price": 14.99,
+    "quantity": 1,
+    "tax": 0,
+    "imported": false
+  },
+  {
+    "name": "Lindt Extra Dark",
+    "type": "Food",
+    "price": 0.85,
+    "quantity": 1,
+    "tax": 0,
+    "imported": false
+  }
+]
